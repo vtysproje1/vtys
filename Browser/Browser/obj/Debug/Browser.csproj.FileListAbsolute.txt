@@ -1,0 +1,88 @@
+C:\Users\SCN\Desktop\Browser\bin\Debug\Browser.exe.config
+C:\Users\SCN\Desktop\Browser\bin\Debug\Browser.exe
+C:\Users\SCN\Desktop\Browser\bin\Debug\Browser.pdb
+C:\Users\SCN\Desktop\Browser\bin\Debug\Geckofx-Core.dll
+C:\Users\SCN\Desktop\Browser\bin\Debug\Geckofx-Winforms.dll
+C:\Users\SCN\Desktop\Browser\bin\Debug\mscorlib.dll
+C:\Users\SCN\Desktop\Browser\bin\Debug\System.Net.Http.dll
+C:\Users\SCN\Desktop\Browser\bin\Debug\Geckofx-Core.pdb
+C:\Users\SCN\Desktop\Browser\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\SCN\Desktop\Browser\bin\Debug\System.Net.Http.xml
+C:\Users\SCN\Desktop\Browser\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\SCN\Desktop\Browser\bin\Debug\normidna.nlp
+C:\Users\SCN\Desktop\Browser\bin\Debug\normnfc.nlp
+C:\Users\SCN\Desktop\Browser\bin\Debug\normnfd.nlp
+C:\Users\SCN\Desktop\Browser\bin\Debug\normnfkc.nlp
+C:\Users\SCN\Desktop\Browser\bin\Debug\normnfkd.nlp
+C:\Users\SCN\Desktop\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\SCN\Desktop\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\SCN\Desktop\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\SCN\Desktop\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\SCN\Desktop\Browser\obj\Debug\Browser.exe
+C:\Users\SCN\Desktop\Browser\obj\Debug\Browser.pdb
+D:\Browser\bin\Debug\Browser.exe.config
+D:\Browser\obj\Debug\Browser.exe
+D:\Browser\obj\Debug\Browser.pdb
+D:\Browser\bin\Debug\Browser.exe
+D:\Browser\bin\Debug\Browser.pdb
+D:\Browser\bin\Debug\Geckofx-Core.dll
+D:\Browser\bin\Debug\Geckofx-Winforms.dll
+D:\Browser\bin\Debug\mscorlib.dll
+D:\Browser\bin\Debug\System.Net.Http.dll
+D:\Browser\bin\Debug\Geckofx-Core.pdb
+D:\Browser\bin\Debug\Geckofx-Winforms.pdb
+D:\Browser\bin\Debug\System.Net.Http.xml
+D:\Browser\bin\Debug\tr\mscorlib.resources.dll
+D:\Browser\bin\Debug\normidna.nlp
+D:\Browser\bin\Debug\normnfc.nlp
+D:\Browser\bin\Debug\normnfd.nlp
+D:\Browser\bin\Debug\normnfkc.nlp
+D:\Browser\bin\Debug\normnfkd.nlp
+D:\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+D:\Browser\obj\Debug\Browser.Form1.resources
+D:\Browser\obj\Debug\Browser.Properties.Resources.resources
+D:\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Browser.exe.config
+C:\Users\Dönüş Soydemir\Desktop\Browser\obj\Debug\Browser.exe
+C:\Users\Dönüş Soydemir\Desktop\Browser\obj\Debug\Browser.pdb
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Browser.exe
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Browser.pdb
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Geckofx-Core.dll
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\mscorlib.dll
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\System.Net.Http.dll
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Geckofx-Core.pdb
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\System.Net.Http.xml
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\normidna.nlp
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\normnfc.nlp
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\normnfd.nlp
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\normnfkc.nlp
+C:\Users\Dönüş Soydemir\Desktop\Browser\bin\Debug\normnfkd.nlp
+C:\Users\Dönüş Soydemir\Desktop\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\Dönüş Soydemir\Desktop\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\Dönüş Soydemir\Desktop\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\Dönüş Soydemir\Desktop\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+F:\Browser\bin\Debug\Browser.exe.config
+F:\Browser\obj\Debug\Browser.exe
+F:\Browser\obj\Debug\Browser.pdb
+F:\Browser\bin\Debug\Browser.exe
+F:\Browser\bin\Debug\Browser.pdb
+F:\Browser\bin\Debug\Geckofx-Core.dll
+F:\Browser\bin\Debug\Geckofx-Winforms.dll
+F:\Browser\bin\Debug\mscorlib.dll
+F:\Browser\bin\Debug\System.Net.Http.dll
+F:\Browser\bin\Debug\Geckofx-Core.pdb
+F:\Browser\bin\Debug\Geckofx-Winforms.pdb
+F:\Browser\bin\Debug\System.Net.Http.xml
+F:\Browser\bin\Debug\tr\mscorlib.resources.dll
+F:\Browser\bin\Debug\normidna.nlp
+F:\Browser\bin\Debug\normnfc.nlp
+F:\Browser\bin\Debug\normnfd.nlp
+F:\Browser\bin\Debug\normnfkc.nlp
+F:\Browser\bin\Debug\normnfkd.nlp
+F:\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+F:\Browser\obj\Debug\Browser.Form1.resources
+F:\Browser\obj\Debug\Browser.Properties.Resources.resources
+F:\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
